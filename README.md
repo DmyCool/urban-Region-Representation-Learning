@@ -1,8 +1,7 @@
-# urban-Region-Representation-Learning
+# Urban-Region-Representation-Learning
 Some urban region representation learning paper lists. region embeddings
 
 
-## Region
 
 | Model      | Paper                                                        | Publication                                             | Code                                                 | Remarks             | Paper             |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------- | ------------------- |-------------------|
